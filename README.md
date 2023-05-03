@@ -1,2 +1,2 @@
 # Sensitivity_analysis
-SALib_Sobol方法
+Python-SALib库；Sobol分析方法
